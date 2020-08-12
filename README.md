@@ -4,7 +4,7 @@
 I am Raghav Ranjan, pursuing Electrical Engineering B.Tech at Indian Institute of Technology, Jodhpur.
 
 - 🔭 I’m currently working on React-native and NodeJs
-- 🌱 I’m currently strengthening Developement and Competitive Programming
+- 🌱 I’m currently strengthening my Developement and Competitive Programming skill
 - 📫 How to reach me:
 
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/raghav-ranjan-827837190/) 

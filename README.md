@@ -3,7 +3,7 @@
 
 I am Raghav Ranjan, pursuing Electrical Engineering B.Tech at Indian Institute of Technology, Jodhpur.
 
-- 🔭 I’m currently working on React-native and NodeJs
+- 🔭 I’m currently working on React-native, NodeJs and Django
 - 🌱 I’m currently strengthening my Developement and Competitive Programming skill
 - 📫 How to reach me:
 

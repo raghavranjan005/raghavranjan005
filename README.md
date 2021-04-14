@@ -4,8 +4,7 @@
 I am Raghav Ranjan, pursuing Electrical Engineering B.Tech at Indian Institute of Technology, Jodhpur.
 
 - 🌱 I’m currently strengthening my Developement and Competitive Programming skill
-- 
-- 🌱 I’m currently working on [AtranZ](https://github.com/raghavranjan005/AtranZ_WebApp) - An E-commerce WebApp using React , Node, MongoDB
+- 🚧 I’m currently working on [AtranZ](https://github.com/raghavranjan005/AtranZ_WebApp) - An E-commerce WebApp using React , Node, MongoDB
 - 📫 How to reach me:
 
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/raghav-ranjan-827837190/) 

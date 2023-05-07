@@ -1,7 +1,7 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-I am Raghav Ranjan, pursuing Electrical Engineering B.Tech at Indian Institute of Technology, Jodhpur.
+I am Raghav Ranjan, currently working at Graviton Research Capital LLP as Trade Execution Analyst. I have pursued B.Tech. in Electrical Engineering at Indian Institute of Technology, Jodhpur.
 
 - 🌱 I’m currently strengthening my Developement and Competitive Programming skill
 - 🚧 Recently deployed [AtranZ](http://atranz.in/) - An E-commerce WebApp using React , Node, MongoDB
